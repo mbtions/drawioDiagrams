@@ -84,12 +84,6 @@
             <mxPoint x="-766.5" y="598" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XL-E2fBatTasfV7Rm5Hk-33" value="Click on Vote Button()" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" target="XL-E2fBatTasfV7Rm5Hk-24" edge="1">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="-766.5" y="645" as="sourcePoint" />
-            <mxPoint x="-556" y="639" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-34" value="if already voted, inform voter cannot vote()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="XL-E2fBatTasfV7Rm5Hk-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-666" y="678" as="sourcePoint" />
@@ -130,6 +124,12 @@
             <Array as="points">
               <mxPoint x="-225.75" y="765" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVQO2OYSeIdpcU2ik1Df-3" value="Click on Vote Button()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-766.5" y="648" as="sourcePoint" />
+            <mxPoint x="-520" y="648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
