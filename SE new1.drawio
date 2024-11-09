@@ -4,46 +4,55 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wVQO2OYSeIdpcU2ik1Df-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="680" width="720" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="wVQO2OYSeIdpcU2ik1Df-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="250" width="380" height="408" as="geometry" />
+        </mxCell>
+        <mxCell id="wVQO2OYSeIdpcU2ik1Df-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-842" y="250" width="420" height="410" as="geometry" />
+        </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-4" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;E-Voting System&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-565" y="191" width="280" height="51" as="geometry" />
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Meenakshi Bharadwaj&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;MCA-III-B&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2300290140102&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;SE Practical 07&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-825" y="10" width="800" height="130" as="geometry" />
+          <mxGeometry x="-825" width="800" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-6" value="&lt;span style=&quot;color: rgb(101, 101, 101); font-family: &amp;quot;Century Gothic&amp;quot;, Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Practical 07:&lt;/u&gt; Draw the sequence diagram for any two scenarios&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-712" y="146" width="575" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;u&gt;Sequence Diagram for Voter to cast Vote&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-780" y="260" width="260" height="30" as="geometry" />
+          <mxGeometry x="-772.5" y="270" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;u&gt;Sequence Diagram for Voter to select Candidate&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="260" width="264" height="30" as="geometry" />
+          <mxGeometry x="-323" y="270" width="264" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XL-E2fBatTasfV7Rm5Hk-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Edit Login and Password()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="XL-E2fBatTasfV7Rm5Hk-19" edge="1">
+        <mxCell id="XL-E2fBatTasfV7Rm5Hk-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Edit Login and Password()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="XL-E2fBatTasfV7Rm5Hk-25" target="XL-E2fBatTasfV7Rm5Hk-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-775.5" y="396" as="sourcePoint" />
+            <mxPoint x="-788" y="396" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Check Validity()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="XL-E2fBatTasfV7Rm5Hk-26" edge="1" target="wVQO2OYSeIdpcU2ik1Df-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-775.5" y="428" as="targetPoint" />
-            <mxPoint x="-525.5" y="428" as="sourcePoint" />
+            <mxPoint x="-788" y="428" as="targetPoint" />
+            <mxPoint x="-538" y="428" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-685" y="428" />
+              <mxPoint x="-697.5" y="428" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;User_Ravi : Voter&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="-825" y="318" width="100" height="340" as="geometry" />
+          <mxGeometry x="-832.5" y="318" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="XL-E2fBatTasfV7Rm5Hk-25">
           <mxGeometry x="45" y="100" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="XL-E2fBatTasfV7Rm5Hk-25">
-          <mxGeometry x="45" y="197" width="10" height="34" as="geometry" />
+          <mxGeometry x="45" y="198" width="10" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Voting System&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="-534" y="318" width="100" height="340" as="geometry" />
+          <mxGeometry x="-546.5" y="318" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="XL-E2fBatTasfV7Rm5Hk-26" vertex="1">
           <mxGeometry x="45" y="177" width="10" height="43" as="geometry" />
@@ -54,25 +63,14 @@
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="XL-E2fBatTasfV7Rm5Hk-26">
           <mxGeometry x="45" y="265" width="10" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="wVQO2OYSeIdpcU2ik1Df-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Save Data()&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="XL-E2fBatTasfV7Rm5Hk-26">
-          <mxGeometry x="-0.4925" y="-14" relative="1" as="geometry">
-            <mxPoint x="50" y="248" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="102" y="248" />
-              <mxPoint x="102" y="283" />
-            </Array>
-            <mxPoint x="55" y="283" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Edit Login and Password()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-323.5" y="420" as="sourcePoint" />
-            <mxPoint x="-80" y="420" as="targetPoint" />
+            <mxPoint x="-313.5" y="410" as="sourcePoint" />
+            <mxPoint x="-70" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;User_Ravi&amp;nbsp;: Voter&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="-373" y="328" width="100" height="330" as="geometry" />
+          <mxGeometry x="-363" y="318" width="100" height="330" as="geometry" />
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="XL-E2fBatTasfV7Rm5Hk-30">
           <mxGeometry x="45" y="122" width="10" height="60" as="geometry" />
@@ -81,7 +79,7 @@
           <mxGeometry x="45" y="273" width="10" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Voting System&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="-125" y="328" width="100" height="330" as="geometry" />
+          <mxGeometry x="-115" y="318" width="100" height="330" as="geometry" />
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-39" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="XL-E2fBatTasfV7Rm5Hk-31" vertex="1">
           <mxGeometry x="45" y="81" width="10" height="99" as="geometry" />
@@ -91,57 +89,57 @@
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;List of Candidates Displayed()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="XL-E2fBatTasfV7Rm5Hk-19" target="wVQO2OYSeIdpcU2ik1Df-26" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-565" y="461" as="sourcePoint" />
-            <mxPoint x="-770" y="470" as="targetPoint" />
+            <mxPoint x="-577.5" y="461" as="sourcePoint" />
+            <mxPoint x="-782.5" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XL-E2fBatTasfV7Rm5Hk-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;if already voted, inform voter cannot vote()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="XL-E2fBatTasfV7Rm5Hk-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;if already voted, inform voter cannot vote()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="XL-E2fBatTasfV7Rm5Hk-24" edge="1" target="wVQO2OYSeIdpcU2ik1Df-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-489" y="533" as="sourcePoint" />
-            <mxPoint x="-770" y="533" as="targetPoint" />
+            <mxPoint x="-501.5" y="533" as="sourcePoint" />
+            <mxPoint x="-780" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Check Validity()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1" target="wVQO2OYSeIdpcU2ik1Df-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-323.5" y="460" as="targetPoint" />
-            <mxPoint x="-80" y="460" as="sourcePoint" />
+            <mxPoint x="-313.5" y="450" as="targetPoint" />
+            <mxPoint x="-70" y="450" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-227.5" y="460" />
+              <mxPoint x="-217.5" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;List of Candidates Displayed()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="498" as="sourcePoint" />
-            <mxPoint x="-318" y="502" as="targetPoint" />
+            <mxPoint x="-70" y="488" as="sourcePoint" />
+            <mxPoint x="-308" y="492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Select Candidate()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-323.5" y="580" as="sourcePoint" />
-            <mxPoint x="-78" y="580" as="targetPoint" />
+            <mxPoint x="-313.5" y="570" as="sourcePoint" />
+            <mxPoint x="-68" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XL-E2fBatTasfV7Rm5Hk-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Candidate&#39;s Information Displayed()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1" target="wVQO2OYSeIdpcU2ik1Df-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-320" y="620" as="targetPoint" />
-            <mxPoint x="-80" y="620" as="sourcePoint" />
+            <mxPoint x="-310" y="610" as="targetPoint" />
+            <mxPoint x="-70" y="610" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-217.75" y="620" />
+              <mxPoint x="-207.75" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wVQO2OYSeIdpcU2ik1Df-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Click on Vote Button()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="wVQO2OYSeIdpcU2ik1Df-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Click on Vote Button()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="XL-E2fBatTasfV7Rm5Hk-25">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-775.5" y="505" as="sourcePoint" />
-            <mxPoint x="-484.5" y="505" as="targetPoint" />
+            <mxPoint x="-788" y="505" as="sourcePoint" />
+            <mxPoint x="-497" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;u&gt;Sequence Diagram for Admin, User, and Database&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-554.5" y="693" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sys_Admin: Admin&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-770" y="760" width="100" height="330" as="geometry" />
+          <mxGeometry x="-770" y="752" width="100" height="330" as="geometry" />
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="wVQO2OYSeIdpcU2ik1Df-9">
           <mxGeometry x="43" y="75" width="10" height="20" as="geometry" />
@@ -162,13 +160,13 @@
           <mxGeometry x="45" y="294" width="10" height="25" as="geometry" />
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;User_Ravi : Voter&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-490" y="760" width="100" height="330" as="geometry" />
+          <mxGeometry x="-490" y="752" width="100" height="330" as="geometry" />
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="wVQO2OYSeIdpcU2ik1Df-10">
           <mxGeometry x="46" y="205" width="10" height="25" as="geometry" />
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Database&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-210" y="760" width="100" height="330" as="geometry" />
+          <mxGeometry x="-210" y="752" width="100" height="330" as="geometry" />
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="wVQO2OYSeIdpcU2ik1Df-11">
           <mxGeometry x="44.25" y="168" width="10" height="27" as="geometry" />
@@ -178,52 +176,67 @@
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2. Requests Permission&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;" edge="1" target="wVQO2OYSeIdpcU2ik1Df-14" parent="1">
           <mxGeometry x="-0.0018" relative="1" as="geometry">
-            <mxPoint x="-440.5" y="879" as="sourcePoint" />
+            <mxPoint x="-440.5" y="871" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3. Grants Permission&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-440.5" y="913" as="targetPoint" />
-            <mxPoint x="-717" y="913" as="sourcePoint" />
+            <mxPoint x="-440.5" y="905" as="targetPoint" />
+            <mxPoint x="-717" y="905" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4. Selects the Candidate and Cast Vote&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-440.5" y="942" as="sourcePoint" />
-            <mxPoint x="-165.75" y="942" as="targetPoint" />
+            <mxPoint x="-440.5" y="934" as="sourcePoint" />
+            <mxPoint x="-165.75" y="934" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;5. Displays the result&amp;nbsp;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-434" y="977" as="targetPoint" />
-            <mxPoint x="-160.5" y="977" as="sourcePoint" />
+            <mxPoint x="-434" y="969" as="targetPoint" />
+            <mxPoint x="-160.5" y="969" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;6. Add and Remove Candidates&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-720.5" y="1034" as="sourcePoint" />
-            <mxPoint x="-165.75" y="1034" as="targetPoint" />
+            <mxPoint x="-720.5" y="1026" as="sourcePoint" />
+            <mxPoint x="-165.75" y="1026" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;7. Successfully Adds Candidates&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0018" relative="1" as="geometry">
-            <mxPoint x="-715" y="1069" as="targetPoint" />
-            <mxPoint x="-166" y="1069" as="sourcePoint" />
+            <mxPoint x="-715" y="1061" as="targetPoint" />
+            <mxPoint x="-166" y="1061" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wVQO2OYSeIdpcU2ik1Df-30" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="XL-E2fBatTasfV7Rm5Hk-26">
+        <mxCell id="wVQO2OYSeIdpcU2ik1Df-30" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="wVQO2OYSeIdpcU2ik1Df-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-489" y="631" as="sourcePoint" />
-            <mxPoint x="-770" y="634" as="targetPoint" />
+            <mxPoint x="-501.5" y="631" as="sourcePoint" />
+            <mxPoint x="-782.5" y="634" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVQO2OYSeIdpcU2ik1Df-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Confirm Vote()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-692.5" y="605" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wVQO2OYSeIdpcU2ik1Df-38" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Save &lt;br&gt;Data()&lt;/span&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-497" y="570" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-472" y="600" />
+            </Array>
+            <mxPoint x="-492" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVQO2OYSeIdpcU2ik1Df-43" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-497" y="631" as="sourcePoint" />
+            <mxPoint x="-777.5" y="631" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wVQO2OYSeIdpcU2ik1Df-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-780" y="616" width="10" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="wVQO2OYSeIdpcU2ik1Df-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Confirm Vote()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="605" width="100" height="30" as="geometry" />
+          <mxGeometry x="-787.5" y="614" width="10" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
